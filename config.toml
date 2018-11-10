@@ -6,8 +6,8 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://bmcphail05.github.io"
-publishdir =  "http://bmcphail05.github.io"
+baseurl = ""
+publishdir =  ""
 # Title of your site
 title = "Brian L. McPhail"
 
