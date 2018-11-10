@@ -1,0 +1,12 @@
+
+
+.btn-toolbar .btn.btn-primary:active, .btn-toolbar .btn.btn-primary.active {
+    background-color: #1f2c35 !important;
+}
+
+.navbar-light .navbar-brand {
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #2b2b2b;
+    text-transform: uppercase;
+}
