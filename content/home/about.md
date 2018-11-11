@@ -29,9 +29,9 @@ weight = 5
   year = 2018
 
 [[education.courses]]
-  course = "MA in Theology/Intercultural Studies"
+  course = "Dual MA in Theology/Crosscultural Studies"
   institution = "Fuller Theological Seminary"
-  year = 2013  
+  year = 2013
 
 [[education.courses]]
   course = "BA in Sociology/Psychology"

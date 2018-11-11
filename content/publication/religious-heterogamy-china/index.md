@@ -1,7 +1,7 @@
 +++
 title = "Religious Heterogamy and the Intergenerational Transmission of Religion in China"
 date = 2018-09-24T00:00:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Brian L. McPhail, Fengggang Yang"]
@@ -15,7 +15,7 @@ authors = ["Brian L. McPhail, Fengggang Yang"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "*Under Review*"
@@ -41,10 +41,10 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "http://arxiv.org/pdf/1512.04133v1"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
-url_dataset = ""
+url_dataset = "http://www.thearda.com/archive/files/descriptions/sprtchna.asp"
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -65,9 +65,9 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "Figure 2. Predicted probabilities of frequency of religious activity and religious salience by parents’ religious marriage type"
+  caption = ""
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
 +++
