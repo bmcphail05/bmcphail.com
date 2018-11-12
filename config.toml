@@ -257,10 +257,10 @@ enableGitInfo = false
     link = "https://twitter.com/bmcphail"
 
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fab"
-    link = "https://github.com/bmcphail05"
+  #[[params.social]]
+  #  icon = "github"
+  #  icon_pack = "fab"
+  #  link = "https://github.com/bmcphail05"
 
   [[params.social]]
     icon = "linkedin"
@@ -277,11 +277,15 @@ enableGitInfo = false
       icon_pack = "ai"
       link = "https://www.researchgate.net/profile/Brian_Mcphail"
 
-    [[params.social]]
-        icon = "orcid"
-        icon_pack = "ai"
-        link = "https://orcid.org/0000-0002-3700-2814"
+    #[[params.social]]
+    #    icon = "orcid"
+    #    icon_pack = "ai"
+    #    link = "https://orcid.org/0000-0002-3700-2814"
 
+    [[params.social]]
+      icon = "cv"
+      icon_pack = "ai"
+      link = "/files/BrianLMcPhail-CV.pdf"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -310,7 +314,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "CV"
-  url = "files/BrianMcPhail_CV.pdf"
+  url = "files/BrianLMcPhail-CV.pdf"
   weight = 5
 
 [[menu.main]]

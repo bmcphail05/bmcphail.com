@@ -18,7 +18,7 @@ authors = ["Brian L. McPhail, Fengggang Yang"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Under Review*"
+publication = "Under review at *Social Forces*"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -34,7 +34,7 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["transmission"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
