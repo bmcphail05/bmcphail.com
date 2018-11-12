@@ -17,8 +17,8 @@ weight = 60
 
 **Teaching Assistant**, Department of Sociology, [_Purdue University_](https://www.cla.purdue.edu/sociology/)
 
-* "Introduction to Sociology" — Fall 2016, Spring 2017.
-* "Social Problems" - Spring 2017.
+* "SOC100 Introduction to Sociology" — Fall 2016, Spring 2017.
+* "SOC220 Social Problems" - Spring 2017.
 
 **Foreign Language Lecturer**​, School of Foreign Studies, [_Minzu University of China_](http://www.muc.edu.cn/)
 
