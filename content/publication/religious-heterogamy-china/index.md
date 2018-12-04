@@ -18,7 +18,7 @@ authors = ["Brian L. McPhail, Fengggang Yang"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Under review at *Social Forces*"
+publication = "In preparation"
 publication_short = ""
 
 # Abstract and optional shortened version.
