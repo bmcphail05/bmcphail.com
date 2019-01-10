@@ -41,8 +41,8 @@ weight = 5
 +++
 # About me
 
-I am a PhD student in sociology at Purdue University in West Lafayette, Indiana. My research interests include religion, family, China, East Asia, and quantitative methods.
+I am a PhD student in sociology at Purdue University in West Lafayette, Indiana. My research interests include religion, family, intergenerational relationships, public attitudes, religious contexts, East Asia, and quantitative methods.
 
-I am currently a research assistant at the [Center on Religion and Chinese Society](http://purdue.edu/crcs) and an editorial assistant for the journal [*Review of Religion and Chinese Society*](http://booksandjournals.brillonline.com/content/journals/22143955).
+I am currently a research assistant at the [Center on Religion and Chinese Society](http://purdue.edu/crcs) and an editorial assistant for the [*Review of Religion and Chinese Society*](http://booksandjournals.brillonline.com/content/journals/22143955).
 
 [**Download my CV**](files/BrianLMcPhail-CV.pdf)
