@@ -12,7 +12,8 @@ weight = 5
   interests = [
      "Religion",
      "Family",
-     "China",
+     "Intergenerational relationships",
+     "Religious contexts",
      "East Asia",
      "Quantitative Methods"
    ]
@@ -21,7 +22,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Sociology"
   institution = "Purdue University"
-  year = "(expected) 2020"
+  year = "(expected) 2021"
 
 [[education.courses]]
   course = "MS in Sociology"
