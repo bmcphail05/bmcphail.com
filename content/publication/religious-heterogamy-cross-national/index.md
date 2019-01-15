@@ -38,7 +38,7 @@ projects = ["transmission"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["religion", "family", "international", "parents", "socialization", "religiosity"]`
+tags = ["religion", "family", "international", "parents", "socialization", "religiosity"]
 
 # Links (optional).
 url_pdf = ""
