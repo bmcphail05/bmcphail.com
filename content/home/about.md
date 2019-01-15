@@ -13,7 +13,6 @@ weight = 5
      "Religion",
      "Family",
      "Intergenerational relationships",
-     "Religious contexts",
      "East Asia",
      "Quantitative Methods"
    ]
