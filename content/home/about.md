@@ -13,8 +13,7 @@ weight = 5
      "Religion",
      "Family",
      "Intergenerational relationships",
-     "East Asia",
-     "Quantitative Methods"
+     "East Asia"
    ]
 
 # List your qualifications (such as academic degrees).
