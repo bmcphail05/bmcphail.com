@@ -41,7 +41,7 @@ projects = ["transmission"]
 tags = ["religion", "family", "international", "parents", "socialization", "religiosity"]
 
 # Links (optional).
-url_pdf = "https://www.mdpi.com/2077-1444/10/2/109/pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = "https://dbk.gesis.org/dbksearch/sdesc2.asp?no=4950&search=issp%202008&search2=&field=all&field2=&DB=e&tab=0&notabs=&nf=1&af=&ll=10"
@@ -53,7 +53,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "PDF", url = "https://www.mdpi.com/2077-1444/10/2/109/pdf"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.3390/rel10020109"
