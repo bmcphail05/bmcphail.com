@@ -15,15 +15,15 @@ authors = ["Brian L. McPhail"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In preparation for *Religions*"
+publication = "*Religions*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "This study examines the effect of religious heterogamy on the transmission of religion from one generation to the next. Using data from 37 countries in the 2008 Religion III Module of the International Social Survey Programme (ISSP), I conduct a cross-national analysis of the relationship between parents’ religious heterogamy and their adult children’s religious lives. By estimating fixed effects regression models, I adjust for unobserved national-level confounders to examine patterns of association between having interreligious parents during childhood and level of adult religiosity as measured by self-rated religiousness, belief in God, and frequencies of religious attendance and prayer. The results indicate that having religiously heterogamous parents or parents with dissimilar religious attendance patterns are both associated with lower overall religiosity in respondents. Parents’ religious attendance, however, mediates the relationship when each parent has a different religion. Having one unaffiliated parent is associated with lower religiosity regardless of parents’ levels of religious attendance. The negative impact of parents’ religious heterogamy on religious inheritance is consistent across societies and has implications for anticipating changes in the religious landscapes of societies characterized by religious diversity and growing numbers of interreligious marriages."
-abstract_short = ""
+abstract = "This study examines the effect of religious heterogamy on the transmission of religion from one generation to the next. Using data from 37 countries in the 2008 Religion III Module of the International Social Survey Programme (ISSP), I conduct a cross-national analysis of the relationship between parents’ religious heterogamy and their adult childrens’ religious lives. By estimating fixed effects regression models, I adjust for national-level confounders to examine patterns of association between having interreligious parents during childhood and level of adult religiosity as measured by self-rated religiousness, belief in God, and frequencies of religious attendance and prayer. The results indicate that having religiously heterogamous parents or parents with dissimilar religious attendance patterns are both associated with lower overall religiosity in respondents. Parents’ religious attendance, however, mediates the relationship when each parent has a different religion. Having one unaffiliated parent is associated with lower religiosity regardless of parents’ levels of religious attendance. The negative impact of parents’ religious heterogamy on religious inheritance is independent of national-level factors and has implications for anticipating changes in the religious landscapes of societies characterized by religious diversity and growing numbers of interreligious marriages."
+abstract_short = "This study examines the effect of religious heterogamy on the transmission of religion from one generation to the next and finds that the negative impact of parents’ religious heterogamy on religious inheritance is independent of national-level factors. This has implications for anticipating changes in the religious landscapes of societies characterized by religious diversity and growing numbers of interreligious marriages.""
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -41,7 +41,7 @@ projects = ["transmission"]
 tags = ["religion", "family", "international", "parents", "socialization", "religiosity"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.mdpi.com/2077-1444/10/2/109/pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = "https://dbk.gesis.org/dbksearch/sdesc2.asp?no=4950&search=issp%202008&search2=&field=all&field2=&DB=e&tab=0&notabs=&nf=1&af=&ll=10"
@@ -56,10 +56,10 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.3390/rel10020109"
 
 # Does this page contain LaTeX math? (true/false)
-math = true
+math = false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
