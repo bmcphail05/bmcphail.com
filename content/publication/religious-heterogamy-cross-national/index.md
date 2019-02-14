@@ -18,7 +18,7 @@ authors = ["Brian L. McPhail"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Religions*"
+publication = "*Religions* 10(2), 109"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -41,6 +41,7 @@ projects = ["transmission"]
 tags = ["religion", "family", "international", "parents", "socialization", "religiosity"]
 
 # Links (optional).
+url_custom = [{name = "PDF", url = "https://www.mdpi.com/2077-1444/10/2/109/pdf"}]
 url_pdf = ""
 url_preprint = ""
 url_code = ""
@@ -53,7 +54,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "PDF", url = "https://www.mdpi.com/2077-1444/10/2/109/pdf"}]
+# url_custom = [{name = "PDF", url = "https://www.mdpi.com/2077-1444/10/2/109/pdf"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.3390/rel10020109"
