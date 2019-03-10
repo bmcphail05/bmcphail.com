@@ -289,7 +289,7 @@ canonifyURLS = true
     [[params.social]]
       icon = "cv"
       icon_pack = "ai"
-      link = "/files/BrianLMcPhail-CV.pdf"
+      link = "/files/bmcphail_cv.pdf"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -318,7 +318,7 @@ canonifyURLS = true
 
 [[menu.main]]
   name = "CV"
-  url = "files/BrianLMcPhail-CV.pdf"
+  url = "files/bmcphail_cv.pdf"
   weight = 5
 
 [[menu.main]]

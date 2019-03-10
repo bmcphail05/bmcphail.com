@@ -44,4 +44,4 @@ I am a PhD student in sociology at Purdue University in West Lafayette, Indiana.
 
 I am currently a research assistant at the [Center on Religion and Chinese Society](http://purdue.edu/crcs) and an editorial assistant for the [*Review of Religion and Chinese Society*](http://booksandjournals.brillonline.com/content/journals/22143955).
 
-[**Download my CV**](files/BrianLMcPhail-CV.pdf)
+[**Download my CV**](files/bmcphail_cv.pdf)
