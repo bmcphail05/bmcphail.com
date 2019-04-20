@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Sociology"
   institution = "Purdue University"
-  year = "(expected) 2021"
+  year = "(expected 2022)"
 
 [[education.courses]]
   course = "MS in Sociology"
