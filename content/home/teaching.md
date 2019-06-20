@@ -14,6 +14,9 @@ subtitle = ""
 weight = 60
 
 +++
+**Graduate Instructor**, Department of Sociology, [_Purdue University_](https://www.cla.purdue.edu/sociology/)
+
+* SOC100 Introduction to Sociology — Summer 2019.
 
 **Teaching Assistant**, Department of Sociology, [_Purdue University_](https://www.cla.purdue.edu/sociology/)
 
