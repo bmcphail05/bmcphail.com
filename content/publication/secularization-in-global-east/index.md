@@ -18,7 +18,7 @@ authors = ["Fenggang Yang", "Brian L. McPhail"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "In preparation"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -40,7 +40,7 @@ projects = []
 tags = ["religion", "East Asia", "secularization", "religiosity"]
 
 # Links (optional).
-url_custom = [{name = "", url = ""}]
+url_custom = ""
 url_pdf = ""
 url_preprint = ""
 url_code = ""
