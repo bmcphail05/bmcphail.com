@@ -1,7 +1,7 @@
 +++
 title = "Is there a Secularization Trend in the Global East?"
 date = 2019-07-31T00:00:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Fenggang Yang", "Brian L. McPhail"]
