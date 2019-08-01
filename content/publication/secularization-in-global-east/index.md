@@ -40,7 +40,7 @@ projects = []
 tags = ["religion", "East Asia", "secularization", "religiosity"]
 
 # Links (optional).
-url_custom = ""
+# url_custom = ""
 url_pdf = ""
 url_preprint = ""
 url_code = ""
