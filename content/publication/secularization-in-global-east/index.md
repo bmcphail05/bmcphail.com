@@ -37,7 +37,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["religion", "East Asia", "secularization", "religiosity]
+tags = ["religion", "East Asia", "secularization", "religiosity"]
 
 # Links (optional).
 url_custom = [{name = "", url = ""}]
@@ -53,7 +53,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "PDF", url = "https://www.mdpi.com/2077-1444/10/2/109/pdf"}]
+# url_custom = [{name = "PDF", url = ""}]
 
 # Digital Object Identifier (DOI)
 doi = ""
