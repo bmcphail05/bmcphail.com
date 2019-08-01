@@ -1,6 +1,6 @@
 +++
 title = "Religious Heterogamy and the Intergenerational Transmission of Religion in China"
-date = 2018-09-24T00:00:00
+date = 2019-03-24T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
