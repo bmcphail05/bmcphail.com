@@ -30,7 +30,7 @@ weight = 5
 [[education.courses]]
   course = "Dual MA in Theology/Crosscultural Studies"
   institution = "Fuller Theological Seminary"
-  year = 2013
+  year = "2010/2013"
 
 [[education.courses]]
   course = "BA in Sociology/Psychology"
