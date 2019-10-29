@@ -11,11 +11,11 @@ authors = ["Brian L. McPhail, Fengggang Yang"]
 # 0 = Uncategorized
 # 1 = Conference paper
 # 2 = Journal article
-# 3 = Manuscript
+# 3 = Manuscript / Work in Progress
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "In preparation"

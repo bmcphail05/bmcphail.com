@@ -15,7 +15,7 @@ authors = ["Fenggang Yang", "Brian L. McPhail"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "In preparation"
