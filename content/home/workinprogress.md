@@ -9,7 +9,7 @@ title = "Work in Progress"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 22
+weight = 50
 
 # Number of publications to list.
 count = 10
