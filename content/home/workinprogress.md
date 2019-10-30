@@ -2,7 +2,7 @@
 # Work in Progress widget.
 # This widget displays recent publications from `content/workinprogress/`.
 widget = "publications"
-active = true
+active = false
 date = 2016-04-20T00:00:00
 
 title = "Work in Progress"
