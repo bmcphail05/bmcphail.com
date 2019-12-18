@@ -11,8 +11,9 @@ weight = 5
 [interests]
   interests = [
      "Religion",
+     "Health",
      "Family",
-     "Intergenerational relationships",
+     "Religious Ecology",
      "East Asia"
    ]
 
@@ -40,7 +41,7 @@ weight = 5
 +++
 # About me
 
-I am a PhD student in sociology at Purdue University in West Lafayette, Indiana. My research interests include religion, family, intergenerational relationships, public attitudes, religious contexts, East Asia, and quantitative methods.
+I am a PhD student in sociology at Purdue University in West Lafayette, Indiana. My research interests include religion, family, health, religious ecology, and East Asia.
 
 I am currently a graduate student instructor in the [Purdue Sociology Department](https://www.cla.purdue.edu/sociology/), a research assistant at the [Center on Religion and Chinese Society](http://purdue.edu/crcs), and an editorial assistant for the [*Review of Religion and Chinese Society*](http://booksandjournals.brillonline.com/content/journals/22143955).
 
