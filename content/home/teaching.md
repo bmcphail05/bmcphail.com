@@ -16,24 +16,29 @@ weight = 60
 +++
 
 ## Instructor
-**Graduate Student Instructor**, Department of Sociology, [_Purdue University_](https://www.cla.purdue.edu/sociology/)
+[_Purdue University_](https://www.cla.purdue.edu/sociology/), Department of Sociology -- West Lafayette, IN
 
-* SOC100 Introduction to Sociology — Summer 2019.
+* SOC100 Introduction to Sociology -- Summer 2019
 
-**Foreign Language Lecturer**​, School of Foreign Studies, [_Minzu University of China_](http://www.muc.edu.cn/)
+[_Minzu University of China_](http://www.muc.edu.cn/), School of Foreign Studies -- Beijing, P.R.C
 
-* Advanced Graduate Academic English: Reading and Writing — Fall 2014, Spring 2015, Fall 2015, Spring 2016.
+* Advanced Graduate Academic English: Reading and Writing -- Fall 2014, Spring 2015, Fall 2015, Spring 2016
 
-* Advanced Graduate Academic English: Oral Communication — Fall 2014, Spring 2015, Fall 2015, Spring 2016.
+* Advanced Graduate Academic English: Oral Communication -- Fall 2014, Spring 2015, Fall 2015, Spring 2016
 
-* Advanced Undergraduate English: Oral Communication — Fall 2013, Spring 2014.
+* Advanced Undergraduate English: Oral Communication -- Fall 2013, Spring 2014
 
 ## Teaching Assistant
-**Teaching Assistant**, Department of Sociology, [_Purdue University_](https://www.cla.purdue.edu/sociology/)
+[_Purdue University_](https://www.cla.purdue.edu/sociology/), Department of Sociology -- West Lafayette, IN
 
-* SOC100 Introduction to Sociology — Fall 2016, Spring 2017.
-* SOC220 Social Problems - Spring 2017.
+* _Graduate Courses_
+  * [SOC681 Categorical Data Analysis](https://www.trentonmize.com/teaching/cda) -- Fall 2019
+  * [SOC680 Advanced Social Research Methods](https://cla.purdue.edu/academic/sociology/graduate/phd/courses.html) -- Spring 2020
 
-**Teaching Assistant**, School of Theology, [_Fuller Theological Seminary_](https://www.fuller.edu/)
+* _Undergraduate Courses_
+  * SOC100 Introduction to Sociology -- Fall 2016, Spring 2017
+  * SOC220 Social Problems -- Spring 2017
 
-* Spiritual Traditions and Practices — Summer 2011.
+[_Fuller Theological Seminary_](https://www.fuller.edu/), School of Theology -- Pasadena, CA
+
+* Spiritual Traditions and Practices -- Summer 2011

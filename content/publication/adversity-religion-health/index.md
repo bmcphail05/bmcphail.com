@@ -1,10 +1,10 @@
 +++
-title = "Is there a Secularization Trend in the Global East?"
+title = "Does Religion Buffer the Effect of Childhood Abuse on Adult Sleep Quality?"
 date = 2019-07-31T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Fenggang Yang", "Brian L. McPhail"]
+authors = ["Brian L. McPhail"]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,7 @@ publication = "In preparation"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "In the debates about secularization in modern societies, proponents have touted the decline of religion in Europe while critics have pointed to the persistence of religion in the United States. Where does East Asia fit in? East Asia not only has about 30 percent of the world's population but also has undergone rapid modernization in recent decades. Is religion in East Asia more like Europe and characterized by a trajectory of decline, or is it more like the United States and characterized by relative stability? Using a variety of available survey and census data, we analyze religious trends in the societies of China, South Korea, Japan, Taiwan, Hong Kong, and Singapore. Preliminary results are mixed. Although there are appearances of decreasing levels of religiosity across generations, there are also indicators of stability over the past few decades. Our analyses reveal patterns that are not consistent with those found in other highly developed nations and that further complicate our understanding of religion in modern societies. Given the limitations of available data and the mixed evidence, we cannot yet conclude that overall trends of religion in East Asia are distinctly different from either Europe or the United States. This highlights the need for more research and for surveys that better measure religiosity in East Asian populations."
+abstract = "This study examines whether religion buffers the deleterious effects of childhood abuse on adult sleep quality. Using cross-sectional data from the Midlife in the United States Study (MIDUS I), I estimated logistic regression models to test whether three measures of religiosity (*N* = 2,644)--weekly religious attendance, religious salience, and spirituality--moderate the accumulated impact of emotional, physical, and severe physical childhood abuse on chronic sleep problems. Weekly religious attendance significantly buffers the effect of having 1-2 types of abuse during childhood--but not the effect of having all three types of abuse--on adult sleep quality. In contrast, religious salience and spirituality do not have a moderating influence on associations between experiencing childhood abuse and chronic sleep problems in adulthood. More broadly, these findings support assertions that religious involvement and the psychosocial resources it provides can buffer the later life health consequences of childhood misfortune."
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -37,14 +37,14 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["religion", "East Asia", "secularization", "religiosity"]
+tags = ["religion", "health", "family"]
 
 # Links (optional).
 # url_custom = ""
 url_pdf = ""
 url_preprint = ""
 url_code = ""
-url_dataset = "http://www.worldvaluessurvey.org/WVSDocumentationWVL.jsp"
+url_dataset = "http://midus.wisc.edu/"
 url_project = ""
 url_slides = ""
 url_video = ""
