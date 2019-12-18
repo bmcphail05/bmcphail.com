@@ -41,4 +41,4 @@ weight = 60
 
 [_Fuller Theological Seminary_](https://www.fuller.edu/), School of Theology -- Pasadena, CA
 
-* Spiritual Traditions and Practices -- Summer 2011
+  * Spiritual Traditions and Practices -- Summer 2011
