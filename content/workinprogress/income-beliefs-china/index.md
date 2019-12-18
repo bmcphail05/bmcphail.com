@@ -26,7 +26,7 @@ abstract = "This study examines the differences in beliefs about divine concern 
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
