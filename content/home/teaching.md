@@ -18,7 +18,7 @@ weight = 60
 ## Instructor
 [_Purdue University_](https://www.cla.purdue.edu/sociology/), Department of Sociology -- West Lafayette, IN
 
-* SOC100 Introduction to Sociology -- Summer 2019
+* [SOC100 Introduction to Sociology](files/SOC100_syllabus_SU2019.pdf) -- Summer 2019
 
 [_Minzu University of China_](http://www.muc.edu.cn/), School of Foreign Studies -- Beijing, P.R.C
 
