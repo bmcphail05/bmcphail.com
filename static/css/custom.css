@@ -22,4 +22,8 @@ h1 {
 
 body {
     font-size: .9rem;
-}
+
+
+.home-section {
+        padding: 75px 0 75px 0;
+    }
