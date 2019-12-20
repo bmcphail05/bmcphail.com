@@ -34,7 +34,7 @@ weight = 60
 * _Graduate Courses_
   * [SOC681 Categorical Data Analysis](https://www.trentonmize.com/teaching/cda) -- Fall 2019
   * [SOC680 Advanced Social Research Methods](https://cla.purdue.edu/academic/sociology/graduate/phd/courses.html) -- Spring 2020
-
+  
 * _Undergraduate Courses_
   * SOC100 Introduction to Sociology -- Fall 2016, Spring 2017
   * SOC220 Social Problems -- Spring 2017
