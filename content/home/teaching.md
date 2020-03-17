@@ -19,6 +19,7 @@ weight = 60
 [_Purdue University_](https://www.cla.purdue.edu/sociology/), Department of Sociology -- West Lafayette, IN
 
 * [SOC100 Introduction to Sociology](files/SOC100_syllabus_SU2019.pdf) -- Summer 2019
+* * SOC382 Introduction to Statistics in Sociology -- Summer 2020
 
 [_Minzu University of China_](http://www.muc.edu.cn/), School of Foreign Studies -- Beijing, P.R.C
 
@@ -34,7 +35,7 @@ weight = 60
 * _Graduate Courses_
   * [SOC681 Categorical Data Analysis](https://www.trentonmize.com/teaching/cda) -- Fall 2019
   * [SOC680 Advanced Social Research Methods](https://cla.purdue.edu/academic/sociology/graduate/phd/courses.html) -- Spring 2020
-  
+
 * _Undergraduate Courses_
   * SOC100 Introduction to Sociology -- Fall 2016, Spring 2017
   * SOC220 Social Problems -- Spring 2017
