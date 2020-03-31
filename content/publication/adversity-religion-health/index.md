@@ -1,5 +1,5 @@
 +++
-title = "Does Religion Buffer the Effect of Childhood Abuse on Adult Sleep Quality?"
+title = "Does Religion Buffer the Effect of Childhood Abuse on Adult Sleep Quality? Differences by Race"
 date = 2019-12-17T00:00:00
 draft = false
 
