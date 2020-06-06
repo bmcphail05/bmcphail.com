@@ -18,28 +18,26 @@ weight = 60
 ## Instructor
 [_Purdue University_](https://www.cla.purdue.edu/sociology/), Department of Sociology -- West Lafayette, IN
 
-* [SOC100 Introduction to Sociology](files/SOC100_syllabus_SU2019.pdf) -- Summer 2019
-* SOC382 Introduction to Statistics in Sociology -- Summer 2020
+* [SOC100 Introduction to Sociology](files/SOC100_syllabus_SU2019.pdf)
+* SOC382 Introduction to Statistics in Sociology
 
 [_Minzu University of China_](http://www.muc.edu.cn/), School of Foreign Studies -- Beijing, P.R.C
 
-* Advanced Graduate Academic English: Reading and Writing -- Fall 2014, Spring 2015, Fall 2015, Spring 2016
-
-* Advanced Graduate Academic English: Oral Communication -- Fall 2014, Spring 2015, Fall 2015, Spring 2016
-
-* Advanced Undergraduate English: Oral Communication -- Fall 2013, Spring 2014
+* Advanced Graduate Academic English: Reading and Writing
+* Advanced Graduate Academic English: Oral Communication
+* Advanced Undergraduate English: Oral Communication
 
 ## Teaching Assistant
 [_Purdue University_](https://www.cla.purdue.edu/sociology/), Department of Sociology -- West Lafayette, IN
 
 * _Graduate Courses_
-  * [SOC681 Categorical Data Analysis](https://www.trentonmize.com/teaching/cda) -- Fall 2019
-  * [SOC680 Advanced Social Research Methods](https://cla.purdue.edu/academic/sociology/graduate/phd/courses.html) -- Spring 2020
+  * [SOC681 Categorical Data Analysis](https://www.trentonmize.com/teaching/cda)
+  * [SOC680 Advanced Social Research Methods](https://cla.purdue.edu/academic/sociology/graduate/phd/courses.html)
 
 * _Undergraduate Courses_
-  * SOC100 Introduction to Sociology -- Fall 2016, Spring 2017
-  * SOC220 Social Problems -- Spring 2017
+  * SOC100 Introduction to Sociology
+  * SOC220 Social Problems
 
 [_Fuller Theological Seminary_](https://www.fuller.edu/), School of Theology -- Pasadena, CA
 
-  * Spiritual Traditions and Practices -- Summer 2011
+  * Spiritual Traditions and Practices
