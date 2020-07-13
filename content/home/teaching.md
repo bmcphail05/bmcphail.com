@@ -19,7 +19,7 @@ weight = 60
 [_Purdue University_](https://www.cla.purdue.edu/sociology/), Department of Sociology -- West Lafayette, IN
 
 * [SOC100 Introduction to Sociology](files/SOC100_syllabus_SU2019.pdf)
-* SOC382 Introduction to Statistics in Sociology
+* [SOC382 Introduction to Statistics in Sociology](files SOC382_syllabus_SU2020.pdf)
 
 [_Minzu University of China_](http://www.muc.edu.cn/), School of Foreign Studies -- Beijing, P.R.C
 
