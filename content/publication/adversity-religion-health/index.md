@@ -18,7 +18,7 @@ authors = ["Brian L. McPhail"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In preparation"
+publication = "Under Review"
 publication_short = ""
 
 # Abstract and optional shortened version.

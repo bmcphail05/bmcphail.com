@@ -18,7 +18,7 @@ authors = ["Brian L. McPhail, Fengggang Yang"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Conditional Acceptance"
+publication = "Journal for the Scientific Study of Religion"
 publication_short = ""
 
 # Abstract and optional shortened version.
