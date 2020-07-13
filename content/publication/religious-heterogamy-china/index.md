@@ -1,6 +1,6 @@
 +++
 title = "Religious Heterogamy and the Intergenerational Transmission of Religion in China"
-date = 2019-03-24T00:00:00
+date = 2020-007-13T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["Brian L. McPhail, Fengggang Yang"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal for the Scientific Study of Religion"
+publication = "*Journal for the Scientific Study of Religion*"
 publication_short = ""
 
 # Abstract and optional shortened version.
