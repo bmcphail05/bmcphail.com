@@ -1,6 +1,6 @@
 +++
 title = "Does Religion Buffer the Effect of Childhood Abuse on Adult Sleep Quality? Differences by Race"
-date = 2019-12-17T00:00:00
+date = 2020-07-13T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -22,7 +22,7 @@ publication = "Under Review"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "This study examines whether religion buffers the deleterious effects of childhood abuse on adult sleep quality. Using cross-sectional data from the Midlife in the United States Study (MIDUS I), I estimated logistic regression models to test whether three measures of religiosity (*N* = 2,644)--weekly religious attendance, religious salience, and spirituality--moderate the accumulated impact of emotional, physical, and severe physical childhood abuse on chronic sleep problems. Weekly religious attendance significantly buffers the effect of having 1-2 types of abuse during childhood--but not the effect of having all three types of abuse--on adult sleep quality. In contrast, religious salience and spirituality do not have a moderating influence on associations between experiencing childhood abuse and chronic sleep problems in adulthood. More broadly, these findings support assertions that religious involvement and the psychosocial resources it provides can buffer the later life health consequences of childhood misfortune."
+abstract = "This study examines the potential of religious involvement to buffer the deleterious effects of childhood abuse on adult sleep quality and whether the buffering effect of religion varies by race. Using cross-sectional data from the Midlife in the United States Study (MIDUS) (n = 1,767), I estimated logistic regression models with interaction terms to test whether four measures of religious involvement–religious attendance, private prayer, religious social support, and religious coping–reduce the accumulated impact of emotional, physical, and severe physical childhood abuse on chronic sleep problems in adulthood. Findings indicate that Black adults were significantly more likely than White adults to have chronic sleep problems. The effect of childhood abuse on sleep quality, however, does not vary by race. Religious attendance and religious social support buffered the effect of having all three types of childhood abuse on the probability of having chronic sleep problems but only for Black adults. Private prayer and religious coping did not reduce associations between childhood abuse and chronic sleep problems in adulthood for either Black or White adults. These findings support assertions that religious involvement and the psychosocial resources they provide can protect against the later life health consequences of childhood adversity."
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -37,7 +37,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["religion", "health", "family"]
+tags = ["religion", "health", "adversity"]
 
 # Links (optional).
 # url_custom = ""

@@ -19,7 +19,7 @@ weight = 60
 [_Purdue University_](https://www.cla.purdue.edu/sociology/), Department of Sociology -- West Lafayette, IN
 
 * [SOC100 Introduction to Sociology](files/SOC100_syllabus_SU2019.pdf)
-* [SOC382 Introduction to Statistics in Sociology](files SOC382_syllabus_SU2020.pdf)
+* [SOC382 Introduction to Statistics in Sociology](files/SOC382_syllabus_SU2020.pdf)
 
 [_Minzu University of China_](http://www.muc.edu.cn/), School of Foreign Studies -- Beijing, P.R.C
 
@@ -40,4 +40,4 @@ weight = 60
 
 [_Fuller Theological Seminary_](https://www.fuller.edu/), School of Theology -- Pasadena, CA
 
-  * Spiritual Traditions and Practices
+  * SP500 Spiritual Traditions and Practices
