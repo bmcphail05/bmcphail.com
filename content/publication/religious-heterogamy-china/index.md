@@ -1,6 +1,6 @@
 +++
 title = "Religious Heterogamy and the Intergenerational Transmission of Religion in China"
-date = 2020-07-13T00:00:00
+date = 2020-07-18T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -56,7 +56,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "https://doi.org/10.1111/jssr.12667"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
