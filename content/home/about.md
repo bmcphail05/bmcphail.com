@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2020-08-07T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -43,6 +43,6 @@ weight = 5
 
 I am a PhD student in sociology at Purdue University in West Lafayette, Indiana. My research interests include religion, family, health, religious ecology, and East Asia.
 
-I am currently a graduate student instructor in the [Purdue Sociology Department](https://www.cla.purdue.edu/sociology/), a research assistant at the [Center on Religion and Chinese Society](http://purdue.edu/crcs), and an editorial assistant for the [*Review of Religion and Chinese Society*](http://booksandjournals.brillonline.com/content/journals/22143955).
+I am currently a graduate student instructor in the [Purdue Sociology Department](https://www.cla.purdue.edu/sociology/), a research assistant at the [Center on Religion and the Global East](http://www.globaleast.org/), and an editorial assistant for the [*Review of Religion and Chinese Society*](http://booksandjournals.brillonline.com/content/journals/22143955).
 
 [**Download my CV**](files/bmcphail_cv.pdf)
