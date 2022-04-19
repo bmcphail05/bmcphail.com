@@ -21,7 +21,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Sociology"
   institution = "Purdue University"
-  year = "(expected 2022)"
+  year = 2022
 
 [[education.courses]]
   course = "MS in Sociology"
@@ -41,7 +41,7 @@ weight = 5
 +++
 
 
-I am a PhD student in sociology at Purdue University in West Lafayette, Indiana. My research interests include religion, family, health, religious ecology, and East Asia.
+I earned my PhD in sociology at Purdue University in West Lafayette, Indiana. My research interests include religion, family, health, religious ecology, and East Asia.
 
 I am currently a graduate student instructor in the [Purdue Sociology Department](https://www.cla.purdue.edu/sociology/), a research assistant at the [Center on Religion and the Global East](http://www.globaleast.org/), and an editorial assistant for the [*Review of Religion and Chinese Society*](http://booksandjournals.brillonline.com/content/journals/22143955).
 
